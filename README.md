@@ -1,8 +1,31 @@
-# React + Vite
+# Projeto frontend da imersão frontend da alura
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### O projeto era criar a UI do spotify.
 
-Currently, two official plugins are available:
+*tecnologias utilizadas:*
+- HTML
+- CSS
+- JavaScript
+- ReactJS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Como rodar o Projeto:
+
+- Primeiro, clone na sua máquina:
+```bash
+git clone https://github.com/CauanLagrotta/spotify_alura.git
+```
+
+- Em seguida, entre na pasta do projeto:
+```bash
+cd spotify_alura
+```
+
+- Instale as dependências:
+```
+npm install
+```
+
+- Rode o projeto
+```
+npm run dev
+```
