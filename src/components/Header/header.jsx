@@ -23,8 +23,6 @@ export function Header() {
                     autoCapitalize="off" 
                     spellCheck="false"
                     placeholder="O que você quer ouvir?"
-                    value={searchInput}
-                    onChange={handleSearching}
                 />
             </div>
             <div className="header__login">
